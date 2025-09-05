@@ -2,6 +2,7 @@ Intro: Mancala is an ancient board game, dating back at least 5000 years. Now, C
 tasked with writing artificial intelligence programs to mastermind this game. During the past
 week and a half, team AlPHA (Aidan lieberman, Philip, Hailey, Alex) constructed an algorithm to
 win at Mancala every time. But how did they do it? Read on!
+<img width="688" height="284" alt="Screenshot 2025-09-05 at 5 28 42 PM" src="https://github.com/user-attachments/assets/cce82e06-2a09-4daa-b43b-a742d123ada2" /> ^Game Tree Visualized, from Stanford Algorithms Course 
 
 1. Our program had a 100% win rate against a random opponent when tested on a sample of
 100 games. We also played against the program ourselves, and were able to win a game
